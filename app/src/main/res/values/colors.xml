@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Amethyst">#9966CC</color>
+    <color name="Aqua">#00FFFF</color>
+    <color name="Artichoke_green">#4B6F44</color>
+    <color name="Barbie_Pink">#DA1884</color>
+    <color name="Blue">#0000FF</color>
+    <color name="Cadmium_green">#006B3C</color>
+    <color name="Coquelicot">#FF3800</color>
+    <color name="material_dynamic_primary10">#001E2C</color>
+    <color name="dark_gray">#656565</color>
+</resources>
