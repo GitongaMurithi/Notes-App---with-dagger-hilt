@@ -10,7 +10,22 @@
  4. Deleting a note : The app also allows its users to delete any note in the list. This is achieved by long pressing on that particualar note
  5. Dynamic note coloring : The user doesn't need to explicitly set the color for the created note but instead the app does that.
 
-## Technology
-a
+## Features
+* Extensive user verificaction. Yes, if you are unable to verify user's input in your apps I would recommend you check this.
+* Response to dark and light modes. The app is responsive to toggling of themes on your device.
 
+## Technology
+The app uses the following technologies:
+* [Room Database](https://developer.android.com/training/data-storage/room) - User data is stored locally with the aid of room database
+* [Dagger Hilt](https://dagger.dev/hilt/) - for dependency injection
+* [Kotlin](https://kotlinlang.org/) programming language
+* [XML](https://developer.android.com/codelabs/basic-android-kotlin-training-xml-layouts#0) for UI development
+
+## Architecture
+The app adheres to MVVM - Model View View Model - architecture
+
+### Give it a star if you have liked it
+***
 ## Screenshots
+
+
