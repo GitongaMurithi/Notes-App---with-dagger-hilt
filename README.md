@@ -10,10 +10,6 @@
  4. Deleting a note : The app also allows its users to delete any note in the list. This is achieved by long pressing on that particualar note
  5. Dynamic note coloring : The user doesn't need to explicitly set the color for the created note but instead the app does that.
 
-## Features
-* Extensive user verificaction. Yes, if you are unable to verify user's input in your apps I would recommend you check this.
-* Response to dark and light modes. The app is responsive to toggling of themes on your device.
-
 ## Technology
 The app uses the following technologies:
 * [Room Database](https://developer.android.com/training/data-storage/room) - User data is stored locally with the aid of room database
@@ -27,5 +23,14 @@ The app adheres to MVVM - Model View View Model - architecture
 ### Give it a star if you have liked it
 ***
 ## Screenshots
+### Dark mode
+![](https://github.com/GitongaMurithi/Notes-App---with-dagger-hilt/blob/master/app/src/main/java/com/example/notes/screenshots/Screenshot%20(61).png)
+![](https://github.com/GitongaMurithi/Notes-App---with-dagger-hilt/blob/master/app/src/main/java/com/example/notes/screenshots/Screenshot%20(62).png)
+![](https://github.com/GitongaMurithi/Notes-App---with-dagger-hilt/blob/master/app/src/main/java/com/example/notes/screenshots/Screenshot%20(63).png)
+![](https://github.com/GitongaMurithi/Notes-App---with-dagger-hilt/blob/master/app/src/main/java/com/example/notes/screenshots/Screenshot%20(64).png)
+![Deleting a note on long press](https://github.com/GitongaMurithi/Notes-App---with-dagger-hilt/blob/master/app/src/main/java/com/example/notes/screenshots/Screenshot%20(65).png)
+
+### Light mode
+![](https://github.com/GitongaMurithi/Notes-App---with-dagger-hilt/blob/master/app/src/main/java/com/example/notes/screenshots/Screenshot%20(66).png)
 
 
