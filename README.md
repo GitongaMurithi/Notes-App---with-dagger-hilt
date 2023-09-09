@@ -11,6 +11,6 @@
  5. Dynamic note coloring : The user doesn't need to explicitly set the color for the created note but instead the app does that.
 
 ## Technology
-
+a
 
 ## Screenshots
