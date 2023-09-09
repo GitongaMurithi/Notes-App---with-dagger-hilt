@@ -19,6 +19,7 @@ import com.example.notes.database.Note
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
+//Since this is an activity we must annotate it with android entry point
 class MainActivity : AppCompatActivity(), NotesAdapter.OnNoteClickedListener,
     PopupMenu.OnMenuItemClickListener {
     private lateinit var binding: ActivityMainBinding
